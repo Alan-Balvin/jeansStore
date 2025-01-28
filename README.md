@@ -17,7 +17,7 @@ filter(): Remove an item from the cart.
 reduce(): Calculate the total price.
 
 UI/UX & Styling
-Basic CSS & Layout Design:
+Basic CSS & Layout Design
 
-Structuring the UI with <div>, <h1>, <ul>, and <button>.
-Implementing a responsive design for better user experience.
+
+
